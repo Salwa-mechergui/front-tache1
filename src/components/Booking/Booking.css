@@ -1,0 +1,18 @@
+.formControl{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+
+}
+.MuiFormControl-root{
+    margin: 5%!important;
+}
+.ridecreation{
+    display: flex;
+    flex-direction: column;
+}
+.dataoutput{
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+}
